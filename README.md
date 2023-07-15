@@ -25,7 +25,7 @@ This is a basic implementation of an algorithmic trading strategy and serves as 
 ## Getting Started
 To use this algorithm, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/YourUsername/YourRepo.git`
+1. Clone the repository: `git clone https://github.com/DhruvAjayToshniwal/Stock-Trading-Backtest-using-SMA.git`
 2. Install the required libraries.
 3. Customize the script to set your preferred stock symbols, date range, and strategy parameters.
 4. Set up Alpaca API keys.
